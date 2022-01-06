@@ -5,4 +5,4 @@ An automated facial recognition based attendance system (desktop application)
 > It has a leave application system inbuilt.
 > Facial biometrics of new users can be added seamlessly. 
 > Generates pay slips and attendance reports.
-> Login functionality provided in order to do any task.
+> Face ID Login implemented in order to perform any task.
