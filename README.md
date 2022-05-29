@@ -4,6 +4,20 @@
 An automated facial recognition based attendance system (desktop application)
 
 
+## Tech Stack
+
+**Language :**  Python
+
+**Libraries :** Tkinter, OpenCV, ReportLabs, Pickle
+
+**ML Models :** HAAR Cascade Classifier, LBPH Algorithm
+
+
+## Authors
+
+- [@MadhavAgarwal01](https://github.com/MadhavAgarwal01)
+
+
 ## Features and Screenshots
 
 - Face ID Login for attendance
@@ -43,18 +57,4 @@ Start the app using the following command.
 ```bash
   python main_gui.py
 ``` -->
-
-
-## Tech Stack
-
-**Language :**  Python
-
-**Libraries :** Tkinter, OpenCV, ReportLabs, Pickle
-
-**ML Models :** HAAR Cascade Classifier, LBPH Algorithm
-
-
-## Authors
-
-- [@MadhavAgarwal01](https://github.com/MadhavAgarwal01)
 
