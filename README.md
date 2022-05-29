@@ -26,7 +26,7 @@ An automated facial recognition based attendance system (desktop application)
 
 ![App Screenshot](https://github.com/MadhavAgarwal01/Facial_Recognition_based_Attendance_System/blob/master/Screenshots/report.png)
 
-## Installation and Run
+<!-- ## Installation and Run
 
 Run the below command to install all the required dependencies.
 
@@ -42,7 +42,7 @@ Start the app using the following command.
 
 ```bash
   python main_gui.py
-```
+``` -->
 
 
 ## Tech Stack
